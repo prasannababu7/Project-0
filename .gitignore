@@ -1,0 +1,6 @@
+.env
+ppt and details/
+myenv/
+__pycache__/
+src/users.log
+src/revhire.db
